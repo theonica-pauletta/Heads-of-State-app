@@ -1,3 +1,4 @@
+//Code needs to be updated. Release has the latest version of the game.//
 Drift off in history class and awaken in the heart of the French Revolution, where your decisions shape your own fate. In Heads of State, a richly immersive Ren’Py visual novel, every choice you make draws you deeper into a world filled with unforgettable characters, evocative sounds, and dramatic effects.
 
 🕰️Your Story, Your Outcome: Navigate alliances, rivalries, and moral dilemmas. The revolution is the backdrop, but your destiny is at stake. Each decision leads to unique lessons and consequences.
